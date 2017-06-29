@@ -1,0 +1,3 @@
+﻿CREATE USER [user_grant3]
+  WITHOUT LOGIN
+GO

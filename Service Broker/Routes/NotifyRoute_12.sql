@@ -1,0 +1,5 @@
+﻿CREATE ROUTE [NotifyRoute_12]
+AUTHORIZATION [dbo]
+WITH ADDRESS = 'LOCAL',
+     SERVICE_NAME = 'NotifyService_12'
+GO

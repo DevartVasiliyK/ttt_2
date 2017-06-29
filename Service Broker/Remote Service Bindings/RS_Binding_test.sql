@@ -1,0 +1,5 @@
+﻿CREATE REMOTE SERVICE BINDING [RS_Binding_test]
+AUTHORIZATION [dbo]
+TO SERVICE '//Documenter_DB'
+WITH USER = [dbo]
+GO

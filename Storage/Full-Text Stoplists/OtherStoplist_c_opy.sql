@@ -1,0 +1,2 @@
+﻿CREATE FULLTEXT STOPLIST [OtherStoplist_c/opy] AUTHORIZATION [dbo];
+GO

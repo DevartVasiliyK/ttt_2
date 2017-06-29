@@ -1,0 +1,3 @@
+﻿CREATE PARTITION SCHEME [myRangePS1]
+  AS PARTITION [myRangePF1] ALL TO ([u_File_group])
+GO
