@@ -1,4 +1,0 @@
-﻿CREATE MESSAGE TYPE [Documenter_Contract_cop/y]
-AUTHORIZATION [dbo]
-VALIDATION = WELL_FORMED_XML
-GO

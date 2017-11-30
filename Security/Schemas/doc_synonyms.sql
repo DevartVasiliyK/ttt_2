@@ -1,2 +1,0 @@
-﻿CREATE SCHEMA [doc_synonyms] AUTHORIZATION [dbo]
-GO

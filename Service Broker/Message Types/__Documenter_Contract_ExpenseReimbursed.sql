@@ -1,4 +1,0 @@
-﻿CREATE MESSAGE TYPE [//Documenter_Contract/ExpenseReimbursed]
-AUTHORIZATION [dbo]
-VALIDATION = WELL_FORMED_XML
-GO

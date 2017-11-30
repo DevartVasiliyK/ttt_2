@@ -1,2 +1,0 @@
-﻿CREATE FULLTEXT STOPLIST [OtherStoplist] AUTHORIZATION [dbo];
-GO

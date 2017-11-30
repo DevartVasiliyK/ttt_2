@@ -1,5 +1,0 @@
-﻿CREATE REMOTE SERVICE BINDING [Remote_Binding_14]
-AUTHORIZATION [dbo]
-TO SERVICE 'NotifyService_14'
-WITH USER = [guest]
-GO

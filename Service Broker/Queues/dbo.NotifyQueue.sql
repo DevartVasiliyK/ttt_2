@@ -1,4 +1,0 @@
-﻿CREATE QUEUE [dbo].[NotifyQueue] WITH STATUS = ON,
-RETENTION = OFF
-ON [PRIMARY]
-GO
